@@ -1,4 +1,4 @@
-//Problem URL : http://www.spoj.com/submit/MAXLN/id=17722416
+//Problem URL : http://www.spoj.com/submit/MAXLN/
 
 import java.util.Scanner;
 class TheMaxLines
