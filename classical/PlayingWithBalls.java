@@ -16,8 +16,9 @@ class PlayingWithBalls
 		         System.out.println("0.000000");
                else
                  System.out.println("1.000000");
-             t--; 
+             t--;     
 		}     
 	}
 
 }
+
