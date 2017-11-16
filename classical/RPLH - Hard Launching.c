@@ -3,7 +3,7 @@
  
 int main()
 {   float g=9.806;
-    float pi=2*acos(0.0);
+    float pi=2*acos(0.0); 
     int t,d,s,i;
     scanf("%d",&t);
   
