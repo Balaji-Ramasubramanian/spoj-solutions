@@ -20,6 +20,6 @@ int main()
         }
         else 
           printf("Scenario #%d: -1\n",i);
-    }
+    } 
     return 0;
 }

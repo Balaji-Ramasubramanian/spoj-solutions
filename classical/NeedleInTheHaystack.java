@@ -25,7 +25,7 @@ class NeedleInTheHaystack
                 System.out.println(idx); c++;
                 idx = str.indexOf(sub, idx)+1;
 
-            }
+            } 
         if(c==0)
           System.out.println();
         s.nextLine();
