@@ -14,7 +14,7 @@ class NeedleInTheHaystack
      
         String sub = s.next();
         String str=s.next();
-        
+         
      int lastIndex = 0;
      int count = 0;
       int idx = 0;
