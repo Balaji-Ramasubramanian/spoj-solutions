@@ -21,7 +21,7 @@ class MaximalQuadrilateralArea
       area=  sqrt((s1-a)*(s1-b)*(s1-c)*(s1-d)) ; 
          System.out.println(area);
          t--;
-      } 
+      }  
    }
 
 
