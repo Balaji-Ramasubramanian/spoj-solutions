@@ -9,7 +9,7 @@ class NeedleInTheHaystack
         int n;
         String sam=s.nextLine();
    try{
-       do
+       do  
         {
           int c=0;n=Integer.parseInt(sam);
           char su[]=new char[n];
