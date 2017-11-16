@@ -1,7 +1,7 @@
 //Problem URL : http://www.spoj.com/problems/HC/
 
 import java.util.Scanner;
-class HappyCoins
+class HappyCoins 
 {
     public static void main(String[] args)
     {
