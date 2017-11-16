@@ -1,3 +1,5 @@
+//Problem URL : http://www.spoj.com/problems/HC/
+
 import java.util.Scanner;
 class HappyCoins
 {

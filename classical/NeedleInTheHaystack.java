@@ -1,3 +1,5 @@
+// Problem url: http://www.spoj.com/problems/NHAY/
+
 import java.util.*;
 class NeedleInTheHaystack
 {
@@ -9,27 +11,28 @@ class NeedleInTheHaystack
    try{
        do
         {
-           int c=0;n=Integer.parseInt(sam);
-        char su[]=new char[n];
-     
-        String sub = s.next();
-        String str=s.next();
+          int c=0;n=Integer.parseInt(sam);
+          char su[]=new char[n];
+          String sub = s.next();
+          String str=s.next();
          
-     int lastIndex = 0;
-     int count = 0;
-      int idx = 0;
-      while ((idx = str.indexOf(sub, idx)) != -1)
-      { 
-       
-          System.out.println(idx); c++;
-          idx = str.indexOf(sub, idx)+1;
+         int lastIndex = 0;
+         int count = 0;
+         int idx = 0;
+          while ((idx = str.indexOf(sub, idx)) != -1)
+            { 
+             
+                System.out.println(idx); c++;
+                idx = str.indexOf(sub, idx)+1;
 
-      }
-      if(c==0)
-                System.out.println();
-      s.nextLine();
-       sam=s.nextLine();
+            }
+        if(c==0)
+          System.out.println();
+        s.nextLine();
+        sam=s.nextLine();
+      
         }while((sam)!=null);
+  
     }
    catch(Exception e)
    {

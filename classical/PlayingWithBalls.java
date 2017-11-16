@@ -1,3 +1,5 @@
+////Problem URL :http://www.spoj.com/problems/IITKWPCN/
+
 import java.util.Scanner;
 class PlayingWithBalls
 {

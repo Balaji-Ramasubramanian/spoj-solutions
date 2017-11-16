@@ -1,3 +1,5 @@
+///Problem URL : http://www.spoj.com/problems/RPLH/
+
 #include<stdio.h>
 #include<math.h>
  
