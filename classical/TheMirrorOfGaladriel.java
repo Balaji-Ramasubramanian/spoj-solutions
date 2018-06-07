@@ -1,4 +1,4 @@
-// Problem URL : http://www.spoj.com/submit/AMR12D/id=17970167
+// Problem URL : http://www.spoj.com/problems/AMR12D/
 
 import java.util.Scanner;
 import java.util.StringTokenizer;
