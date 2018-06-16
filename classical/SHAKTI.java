@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class SHAKTI {
+class SHAKTI {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
